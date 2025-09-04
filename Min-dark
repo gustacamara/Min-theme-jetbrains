@@ -1,8 +1,9 @@
-<scheme name="Min Dark copy" version="142" parent_scheme="Darcula">
+
+<scheme name="Min Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">Idea</property>
     <property name="ideVersion">2025.2.1.0.0</property>
-    <property name="originalScheme">Min Dark copy</property>
+    <property name="originalScheme">Min Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="3A632A" />
@@ -376,6 +377,7 @@
       <value>
         <option name="FOREGROUND" value="ffab70" />
         <option name="EFFECT_COLOR" value="ffab70" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -500,8 +502,8 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
-        <option name="EFFECT_COLOR" value="b392f0" />
+        <option name="FOREGROUND" value="ffab70" />
+        <option name="EFFECT_COLOR" value="ffab70" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -532,7 +534,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f97583" />
+        <option name="FOREGROUND" value="d85656" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -562,12 +564,12 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
+        <option name="FOREGROUND" value="d85656" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ff9800" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -582,7 +584,7 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
@@ -607,7 +609,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="9db1c5" />
+        <option name="FOREGROUND" value="ffab70" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1207,7 +1209,6 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
         <option name="BACKGROUND" value="b392f0" />
       </value>
     </option>
@@ -2363,7 +2364,6 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="848484" />
-        <option name="EFFECT_COLOR" value="848484" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2957,7 +2957,8 @@
     </option>
     <option name="ReSharper.HINT">
       <value>
-        <option name="EFFECT_COLOR" value="79b8ff" />
+        <option name="EFFECT_COLOR" value="527aa9" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
@@ -2987,7 +2988,6 @@
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
-        <option name="EFFECT_COLOR" value="79b8ff" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
